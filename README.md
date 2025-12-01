@@ -53,7 +53,7 @@ python main.py
 ```
 
 The script will then:
-1.  Fetch the PDF and process it.
+1.  Fetch the PDF and process it. The default PDF is an Nvidia earnings call transcript, but you can change this in `main.py`: `https://s201.q4cdn.com/141608511/files/doc_financials/2026/q3/NVDA-Q3-2026-Earnings-Call-19-November-2025-5_00-PM-ET.pdf`
 2.  Store the data in BigQuery.
 3.  Run a sample query: "What is the main topic of the document?".
 4.  Print the generated answer to the console.
