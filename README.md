@@ -58,5 +58,9 @@ The script will then:
 3.  Run a sample query: "What is the main topic of the document?".
 4.  Print the generated answer to the console.
 
+Snapshots for reference
 Terminal
 <img width="1433" height="464" alt="Screenshot 2025-12-02 at 4 32 28 PM" src="https://github.com/user-attachments/assets/b940c04a-d9de-4bca-910e-93b10791568a" />
+BigQuery
+<img width="1265" height="766" alt="Screenshot 2025-12-02 at 4 41 14 PM" src="https://github.com/user-attachments/assets/6ac9668d-a982-446d-9d93-492d17791518" />
+
