@@ -57,3 +57,6 @@ The script will then:
 2.  Store the data in BigQuery.
 3.  Run a sample query: "What is the main topic of the document?".
 4.  Print the generated answer to the console.
+
+Terminal
+<img width="1433" height="464" alt="Screenshot 2025-12-02 at 4 32 28 PM" src="https://github.com/user-attachments/assets/b940c04a-d9de-4bca-910e-93b10791568a" />
